@@ -7,5 +7,5 @@ https://x-blood.github.io/xblood_mvc2_character_color_catalog/
 JQueryすら使っていないかなりレガシーなWebページとなります。  
 
 
-MARVEL VS CAPCOM 2は2000年にリリースされた格闘ゲームで、  
+MARVEL VS CAPCOM 2は2000年にリリースされた格闘ゲームで  
 続編のMARVEL VS CAPCOM 3が出るまで10年以上遊ばれてきました。  
